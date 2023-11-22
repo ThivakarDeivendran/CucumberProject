@@ -27,6 +27,8 @@ public class FirstFeatureStepDefinition {
 	public void andFunction() {
 		System.out.println("I close the application");
 		
+		System.out.println("testin");	
+		System.out.println("testin");System.out.println("testin");System.out.println("testin");
 		System.out.println("testin");
 	} 
 	
